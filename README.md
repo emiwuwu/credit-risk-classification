@@ -25,4 +25,4 @@ In this challenge, our objective is to build a model that evaluates loan risk an
 
 ## Credit Risk Analysis Report
 
-For a comprehensive analysis of our credit risk classification models, please refer to the [Credit Risk Analysis Report](credit_risk_analysis_report.md).
+For a comprehensive analysis of our credit risk classification models, please refer to the [Credit Risk Analysis Report](Credit_Risk/ Analysis_Report.md).
